@@ -15,4 +15,6 @@ Running Instructions:
 
 **Currently, only input texts with no spaces are supported. (To be provided soon)
 
+**Organisation of files into different folders(include, src etc) to be done as soon as I figure out how to use the makefile for such a purpose.
+
 The marker is a keygen, used to generate the key to be used for encryption or decryption. The sender and reciever must have the same marker key to decode the messages.
